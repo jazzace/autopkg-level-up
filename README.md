@@ -5,13 +5,14 @@ If you're attending my session at the 2018 Mac Admins Conference at Penn State (
 * [Recipe Robot](https://github.com/homebysix/recipe-robot/releases/latest) (Elliot Jordan)
 * [BBEdit](http://www.barebones.com/products/bbedit/) (Bare Bones Software)
 
-In the demo, we will also download [AutoPkg](https://github.com/autopkg/autopkg/releases/latest) (Neagle, Sutton, Olofsson, _et al_) and, optionally, [Munki](https://github.com/munki/munki/releases) (Walt Disney Animation Studios) from within AutoPkgr, but you can install those on their own if you prefer.
+In the demo, we will also download [AutoPkg](https://github.com/autopkg/autopkg/releases/latest) (Neagle, Sutton, Olofsson, _et al_), [git](https://github.com/autopkg/autopkg/wiki/Getting-Started#install-git), and, optionally, [Munki](https://github.com/munki/munki/releases) (Walt Disney Animation Studios) from within AutoPkgr, but you can install those on their own if you prefer.
 
 ## Source Files
 Here are the source recipes mentioned in the presentation:
 
 * [FirefoxAutoconfig.pkg.recipe](https://github.com/autopkg/gregneagle-recipes/blob/master/Mozilla/FirefoxAutoconfig.pkg.recipe) (Greg Neagle)
 * [FirefoxESRPolicies.pkg.recipe](https://github.com/autopkg/mosen-recipes/blob/master/Mozilla/FirefoxESRPolicies.pkg.recipe) (mosen)
+* [TouchOSCEditor recipes](https://github.com/autopkg/jazzace-recipes/tree/master/Hexler) (Me)
 * [Joshua Miller NVivo recipes](https://github.com/autopkg/joshua-d-miller-recipes/tree/master/NVivo)
 * [William McGrath NVivo recipes](https://github.com/autopkg/nzmacgeek-recipes/tree/master/NVivo)
 
