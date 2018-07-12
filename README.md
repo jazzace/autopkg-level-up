@@ -3,17 +3,19 @@ If you're attending my session at the 2018 Mac Admins Conference at Penn State (
 
 * [AutoPkgr](https://github.com/lindegroup/autopkgr/releases/latest) (Linde Group)
 * [Recipe Robot](https://github.com/homebysix/recipe-robot/releases/latest) (Elliot Jordan)
-* [BBEdit](http://www.barebones.com/products/bbedit/) (Bare Bones Software)
+* [BBEdit](http://www.barebones.com/products/bbedit/) (Bare Bones Software) or another text editor.
 
-In the demo, we will also download [AutoPkg](https://github.com/autopkg/autopkg/releases/latest) (Neagle, Sutton, Olofsson, _et al_), [git](https://github.com/autopkg/autopkg/wiki/Getting-Started#install-git), and, optionally, [Munki](https://github.com/munki/munki/releases) (Walt Disney Animation Studios) from within AutoPkgr, but you can install those on their own if you prefer.
+All the demo segments assume that you have downloaded and installed [AutoPkg](https://github.com/autopkg/autopkg/releases/latest) (Neagle, Sutton, Olofsson, _et al_) and [git](https://github.com/autopkg/autopkg/wiki/Getting-Started#install-git), either from within AutoPkgr or on their own.
 
 ## Source Files
 Here are the source recipes mentioned in the presentation:
 
-* [FirefoxAutoconfig.pkg.recipe](https://github.com/autopkg/gregneagle-recipes/blob/master/Mozilla/FirefoxAutoconfig.pkg.recipe) (Greg Neagle)
-* [FirefoxESRPolicies.pkg.recipe](https://github.com/autopkg/mosen-recipes/blob/master/Mozilla/FirefoxESRPolicies.pkg.recipe) (mosen)
+* [ProVideoFormats recipes](https://github.com/autopkg/jazzace-recipes/tree/master/AppleProVideo) (Me)
 * [TouchOSCEditor recipes](https://github.com/autopkg/jazzace-recipes/tree/master/Hexler) (Me)
 * [Joshua Miller NVivo recipes](https://github.com/autopkg/joshua-d-miller-recipes/tree/master/NVivo)
 * [William McGrath NVivo recipes](https://github.com/autopkg/nzmacgeek-recipes/tree/master/NVivo)
 
-The files that were created/edited in the demo are shared in this repo. My own AutoPkg recipe repo is [jazzace-recipes](https://github.com/autopkg/jazzace-recipes).
+The files that were created/edited in the demo are shared in this repo — you may find it easier to read those files in a text editor or web browser than on the projector screen). My full AutoPkg recipe repo is [jazzace-recipes](https://github.com/autopkg/jazzace-recipes).
+
+## Slide Deck
+The slides, with numerous live links, can be [downloaded as a PDF.](https://www.dropbox.com/s/6xqz8wx47k70aw0/AutoPkg%20Level%20Up%20PSU.pdf?dl=0)
