@@ -18,4 +18,4 @@ Here are the source recipes mentioned in the presentation:
 The files that were created/edited in the demo are shared in this repo — you may find it easier to read those files in a text editor or web browser than on the projector screen). My full AutoPkg recipe repo is [jazzace-recipes](https://github.com/autopkg/jazzace-recipes).
 
 ## Slide Deck
-The slides, with numerous live links, can be [downloaded as a PDF.](https://www.dropbox.com/s/6xqz8wx47k70aw0/AutoPkg%20Level%20Up%20PSU.pdf?dl=0)
+The slides, with numerous live links, can be [downloaded as a PDF.](https://macadmins.psu.edu/files/2018/07/psumac2018-AutoPkg-Level-Up-2gaavj1.pdf)
