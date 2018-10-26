@@ -21,6 +21,4 @@ The files that were created/edited in the demo are shared in this repo — you m
 The slides, with numerous live links, can be [downloaded as a PDF from this repository.](https://github.com/jazzace/autopkg-level-up/AutoPkg_Level_Up_PSU_slides.pdf)
 
 ## Related Blog Posts
-As you may have noticed, there are a few extra slides in the miscellany section that I did not have time to address, and there was some content I rushed through a bit. I am planning some additional blog posts on my [MacLabs blog](https://maclabs.jazzace.ca) to cover the extra content and expose a few more details. I will add links here as they are posted:
-
-* [UNIX Aliases and AutoPkg](https://maclabs.jazzace.ca/2018/08/03/unix-aliases-and-autopkg.html)
+As you may have noticed, there are a few extra slides in the miscellany section that I did not have time to address, and there was some content I rushed through a bit. I have started a series of blog posts on my [MacLabs blog](https://maclabs.jazzace.ca) to cover some of those topics in more detail as well as any of my latest findings. Just look for the Package Emoji (📦) for AutoPkg-related posts.
