@@ -18,7 +18,7 @@ Here are the source recipes mentioned in the presentation:
 The files that were created/edited in the demo are shared in this repo — you may find it easier to read those files in a text editor or web browser than on the projector screen). My full AutoPkg recipe repo is [jazzace-recipes](https://github.com/autopkg/jazzace-recipes).
 
 ## Slide Deck
-The slides, with numerous live links, can be [downloaded as a PDF from this repository.](https://github.com/jazzace/autopkg-level-up/blob/master/AutoPkg_Level_Up_PSU_slides.pdf)
+The slides, with numerous live links, can be [downloaded as a PDF from this repository.](https://github.com/jazzace/autopkg-level-up/raw/master/AutoPkg_Level_Up_PSU_slides.pdf)
 
 ## Related Blog Posts
 As you may have noticed, there are a few extra slides in the miscellany section that I did not have time to address, and there was some content I rushed through a bit. I have started a series of blog posts on my [MacLabs blog](https://maclabs.jazzace.ca) to cover some of those topics in more detail as well as any of my latest findings. Just look for the Package Emoji (📦) for AutoPkg-related posts.
